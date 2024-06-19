@@ -15,6 +15,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 # Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0451-sort-characters-by-frequency](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 # Heap (Priority Queue)
 |  |
@@ -28,3 +29,11 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
+# Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0015-3sum) |
+# Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0015-3sum) |
