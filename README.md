@@ -6,6 +6,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1500-count-largest-group](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1500-count-largest-group) |
 | [3412-permutation-difference-between-two-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 # String
 |  |
@@ -47,6 +48,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 # Math
 |  |
 | ------- |
+| [1500-count-largest-group](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1500-count-largest-group) |
 | [2481-strictly-palindromic-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2481-strictly-palindromic-number) |
 # Brainteaser
 |  |
