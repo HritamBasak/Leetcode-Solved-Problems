@@ -38,6 +38,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0015-3sum) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2481-strictly-palindromic-number) |
 # Sliding Window
 |  |
@@ -51,3 +52,11 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2481-strictly-palindromic-number) |
+# Linked List
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+# Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
