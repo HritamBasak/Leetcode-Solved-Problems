@@ -62,3 +62,14 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [2824-check-if-the-number-is-fascinating](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2824-check-if-the-number-is-fascinating) |
+## Math
+|  |
+| ------- |
+| [2824-check-if-the-number-is-fascinating](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2824-check-if-the-number-is-fascinating) |
+<!---LeetCode Topics End-->
