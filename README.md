@@ -94,4 +94,12 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0647-palindromic-substrings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
