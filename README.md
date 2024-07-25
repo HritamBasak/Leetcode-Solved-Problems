@@ -75,6 +75,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0007-reverse-integer) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Array
 |  |
