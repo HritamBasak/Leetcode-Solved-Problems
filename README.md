@@ -100,6 +100,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0647-palindromic-substrings) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
 ## Dynamic Programming
@@ -141,6 +142,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -159,4 +161,9 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
