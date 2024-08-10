@@ -69,6 +69,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -91,6 +92,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0647-palindromic-substrings) |
 | [1205-defanging-an-ip-address](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1205-defanging-an-ip-address) |
@@ -135,6 +137,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -166,4 +169,8 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
