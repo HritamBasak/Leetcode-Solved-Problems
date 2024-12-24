@@ -68,6 +68,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -81,6 +82,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0007-reverse-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -92,6 +94,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -141,10 +144,12 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
@@ -210,6 +215,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
