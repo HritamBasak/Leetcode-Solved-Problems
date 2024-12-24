@@ -80,6 +80,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -89,6 +90,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -117,6 +119,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
