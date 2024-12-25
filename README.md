@@ -67,6 +67,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -92,6 +93,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
