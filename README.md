@@ -68,6 +68,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
@@ -95,6 +96,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
@@ -235,4 +237,8 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
