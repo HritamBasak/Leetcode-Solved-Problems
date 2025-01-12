@@ -115,6 +115,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2714-left-and-right-sum-differences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## String
 |  |
 | ------- |
@@ -228,6 +229,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0724-find-pivot-index](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2714-left-and-right-sum-differences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
