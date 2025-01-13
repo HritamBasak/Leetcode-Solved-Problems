@@ -91,6 +91,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2571-find-the-pivot-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Array
 |  |
@@ -229,6 +230,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0724-find-pivot-index](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2571-find-the-pivot-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Binary Search
 |  |
