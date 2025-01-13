@@ -109,6 +109,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0349-intersection-of-two-arrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
 | [1319-unique-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1319-unique-number-of-occurrences) |
@@ -228,6 +229,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -241,10 +243,12 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
 | ------- |
