@@ -80,6 +80,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1319-unique-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Math
@@ -93,6 +94,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2571-find-the-pivot-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Array
@@ -122,6 +124,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2102-find-the-middle-index-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3644-minimum-positive-sum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3644-minimum-positive-sum-subarray) |
@@ -196,6 +199,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Quickselect
 |  |
 | ------- |
