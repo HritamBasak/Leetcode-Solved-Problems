@@ -118,6 +118,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -137,6 +138,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
