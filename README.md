@@ -135,6 +135,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2561-number-of-distinct-averages) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2634-minimum-common-value) |
 | [2714-left-and-right-sum-differences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3644-minimum-positive-sum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3644-minimum-positive-sum-subarray) |
@@ -206,10 +207,12 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2561-number-of-distinct-averages](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2561-number-of-distinct-averages) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -242,6 +245,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0415-add-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
 | ------- |
@@ -304,4 +308,5 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
