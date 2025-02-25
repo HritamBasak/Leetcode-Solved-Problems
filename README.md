@@ -152,6 +152,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1894-merge-strings-alternately](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -172,6 +173,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0647-palindromic-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0647-palindromic-substrings) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2561-number-of-distinct-averages](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2561-number-of-distinct-averages) |
