@@ -119,6 +119,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0455-assign-cookies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0605-can-place-flowers) |
 | [0713-subarray-product-less-than-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
@@ -254,6 +255,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
 ## Linked List
 |  |
