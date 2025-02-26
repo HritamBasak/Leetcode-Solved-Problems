@@ -124,6 +124,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0890-lemonade-change](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
 | [1319-unique-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
