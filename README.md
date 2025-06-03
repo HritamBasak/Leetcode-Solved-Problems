@@ -71,6 +71,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
@@ -95,6 +96,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0007-reverse-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -179,6 +181,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
