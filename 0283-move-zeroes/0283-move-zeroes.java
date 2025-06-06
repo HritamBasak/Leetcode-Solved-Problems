@@ -1,28 +1,40 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        ArrayList<Integer> list=new ArrayList<>();
-        ArrayList<Integer> list1=new ArrayList<>();
-        for(int i=0;i<nums.length;i++)
+    //     ArrayList<Integer> list=new ArrayList<>();
+    //     ArrayList<Integer> list1=new ArrayList<>();
+    //     for(int i=0;i<nums.length;i++)
+    //     {
+    //         if(nums[i]!=0)
+    //         list.add(nums[i]);
+    //     }
+    //     for(int i=0;i<nums.length;i++)
+    //     {
+    //         if(nums[i]==0)
+    //         list1.add(nums[i]);
+    //     }
+    //     for(int i=0;i<list.size();i++)
+    //     {
+    //         nums[i]=list.get(i);
+    //     }
+    //     for(int i=list.size();i<nums.length;i++)
+    //     {
+    //         nums[i]=list1.get(i-list.size());
+    //     }
+    //     for(int i:nums)
+    //     {
+    //         System.out.println(i);
+    //     }
+    // }
+    int left=0;
+    for(int i=0;i<nums.length;i++)
+    {
+        if(nums[i]!=0)
         {
-            if(nums[i]!=0)
-            list.add(nums[i]);
+            int temp=nums[i];//12
+            nums[i]=nums[left];//1 0 0 0 0
+            nums[left]=temp;//1 3 12 0 0
+            left++;//left=2
         }
-        for(int i=0;i<nums.length;i++)
-        {
-            if(nums[i]==0)
-            list1.add(nums[i]);
-        }
-        for(int i=0;i<list.size();i++)
-        {
-            nums[i]=list.get(i);
-        }
-        for(int i=list.size();i<nums.length;i++)
-        {
-            nums[i]=list1.get(i-list.size());
-        }
-        for(int i:nums)
-        {
-            System.out.println(i);
-        }
+    }
     }
 }
