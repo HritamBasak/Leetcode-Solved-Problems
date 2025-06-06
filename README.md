@@ -174,6 +174,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -335,6 +336,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0713-subarray-product-less-than-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
