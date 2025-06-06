@@ -1,33 +1,25 @@
 class Solution {
     public int countKConstraintSubstrings(String s, int k) {
-
         int count = 0;
-        int oneCount = 0;
-        int zeroCount = 0;
-       
+        int ones = 0, zeroes = 0;
+        int left = 0;
 
-        for (int right = 0, left = 0; right < s.length(); right++) {
-            char c = s.charAt(right);
-            if (c == '0') {
-                zeroCount++;
-            } else {
-                oneCount++;
-            }
-           
-            while (zeroCount > k && oneCount > k) {
-                
+        for (int i = 0; i < s.length(); i++) {
+            // count current character
+            if (s.charAt(i) == '1') ones++;
+            else zeroes++;
 
-                if (s.charAt(left) == '0') {
-                    zeroCount--;
-                } else {
-                    oneCount--;
-                }
+            // shrink window if both counts exceed k
+            while (ones > k && zeroes > k) {
+                if (s.charAt(left) == '1') ones--;
+                else zeroes--;
                 left++;
             }
 
-            
-            count += right - left + 1;
+            // count substrings ending at i
+            count += i - left + 1;
         }
+
         return count;
     }
 }
