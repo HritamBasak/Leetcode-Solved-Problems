@@ -145,6 +145,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2102-find-the-middle-index-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2159-two-out-of-three](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2159-two-out-of-three) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -178,6 +179,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Two Pointers
 |  |
@@ -202,6 +204,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2561-number-of-distinct-averages](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2634-minimum-common-value) |
