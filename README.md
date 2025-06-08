@@ -154,6 +154,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2634-minimum-common-value](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2634-minimum-common-value) |
 | [2714-left-and-right-sum-differences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3644-minimum-positive-sum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## String
 |  |
@@ -208,6 +209,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2271-rearrange-array-elements-by-sign](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2561-number-of-distinct-averages](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2634-minimum-common-value) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +244,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2561-number-of-distinct-averages](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
