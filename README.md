@@ -140,6 +140,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2102-find-the-middle-index-in-array) |
@@ -206,6 +207,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1894-merge-strings-alternately) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -243,6 +245,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0349-intersection-of-two-arrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2561-number-of-distinct-averages](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -295,6 +298,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0455-assign-cookies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Linked List
 |  |
 | ------- |
