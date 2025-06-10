@@ -156,6 +156,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2561-number-of-distinct-averages](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2634-minimum-common-value) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -338,6 +339,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2571-find-the-pivot-integer) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3644-minimum-positive-sum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
