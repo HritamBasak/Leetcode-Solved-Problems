@@ -157,6 +157,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3644-minimum-positive-sum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3644-minimum-positive-sum-subarray) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## String
 |  |
 | ------- |
@@ -335,6 +336,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2571-find-the-pivot-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3644-minimum-positive-sum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3644-minimum-positive-sum-subarray) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
 | ------- |
