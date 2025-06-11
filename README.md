@@ -197,6 +197,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -312,6 +313,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
