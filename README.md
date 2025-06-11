@@ -115,6 +115,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
