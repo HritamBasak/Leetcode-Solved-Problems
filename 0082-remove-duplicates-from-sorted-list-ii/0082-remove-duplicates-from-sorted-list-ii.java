@@ -10,25 +10,27 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        HashMap<Integer,Integer> map=new LinkedHashMap<>();
-        ListNode temp=head;
-        while(temp!=null)
+        ListNode cur=head;
+        ListNode dummy=new ListNode(-1);
+        dummy.next=cur;
+        ListNode prev=dummy;
+
+        while(cur!=null)
         {
-            int val=temp.val;
-            map.put(val,map.getOrDefault(val,0)+1);
-            temp=temp.next;
-        }
-        ListNode c=new ListNode(-1);
-        ListNode cur=c;
-        for(int i:map.keySet())
-        {
-            if(map.get(i)==1)
+            if(cur.next!=null && cur.val==cur.next.val)
             {
-                ListNode f=new ListNode(i);
-                c.next=f;
-                c=f;
+                while(cur.next!=null && cur.val==cur.next.val )
+                {
+                    cur=cur.next;
+                }
+                prev.next=cur.next;
             }
+            else
+            {
+                prev=prev.next;
+            }
+            cur=cur.next;
         }
-        return cur.next;
+        return dummy.next;
     }
 }
