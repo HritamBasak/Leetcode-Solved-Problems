@@ -137,6 +137,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0496-next-greater-element-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0605-can-place-flowers) |
+| [0658-find-k-closest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
@@ -214,6 +215,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1894-merge-strings-alternately) |
@@ -255,6 +257,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -265,6 +268,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Bucket Sort
 |  |
@@ -361,12 +365,14 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [2634-minimum-common-value](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2634-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
