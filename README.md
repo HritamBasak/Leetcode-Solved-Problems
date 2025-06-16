@@ -143,6 +143,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0739-daily-temperatures](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -298,6 +299,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0739-daily-temperatures) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2573-remove-nodes-from-linked-list) |
@@ -306,6 +308,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0496-next-greater-element-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0739-daily-temperatures) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Simulation
@@ -333,6 +336,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0143-reorder-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
