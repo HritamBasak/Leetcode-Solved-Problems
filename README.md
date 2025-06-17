@@ -114,6 +114,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -375,6 +376,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
