@@ -68,6 +68,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
@@ -115,6 +116,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -176,6 +178,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -256,6 +259,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
