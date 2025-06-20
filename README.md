@@ -424,6 +424,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -433,6 +434,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0100-same-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -451,11 +453,13 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
