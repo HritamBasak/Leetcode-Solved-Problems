@@ -255,6 +255,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2159-two-out-of-three](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2159-two-out-of-three) |
@@ -389,6 +390,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0162-find-peak-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -419,6 +421,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0100-same-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -434,4 +437,5 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0100-same-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
