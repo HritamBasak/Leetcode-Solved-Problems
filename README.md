@@ -419,6 +419,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
@@ -427,6 +428,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
@@ -441,9 +443,14 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
