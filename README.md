@@ -155,6 +155,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -376,6 +377,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1370-count-number-of-nice-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2571-find-the-pivot-integer) |
