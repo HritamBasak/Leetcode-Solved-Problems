@@ -202,6 +202,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Two Pointers
 |  |
@@ -407,6 +408,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3644-minimum-positive-sum-subarray) |
