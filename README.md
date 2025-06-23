@@ -149,6 +149,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0739-daily-temperatures](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -230,6 +231,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0647-palindromic-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -274,6 +276,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0455-assign-cookies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2561-number-of-distinct-averages](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2561-number-of-distinct-averages) |
