@@ -122,6 +122,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0057-insert-interval](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -212,6 +213,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0143-reorder-list) |
@@ -268,6 +270,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
