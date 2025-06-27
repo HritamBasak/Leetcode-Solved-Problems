@@ -94,6 +94,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [2634-minimum-common-value](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2634-minimum-common-value) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +179,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3644-minimum-positive-sum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3799-unique-3-digit-even-numbers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -363,6 +365,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0143-reorder-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [3799-unique-3-digit-even-numbers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -476,4 +479,8 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
