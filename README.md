@@ -118,6 +118,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0057-insert-interval) |
@@ -483,4 +484,8 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/3799-unique-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
