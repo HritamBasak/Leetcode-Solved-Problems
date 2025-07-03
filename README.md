@@ -451,6 +451,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0226-invert-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
@@ -460,6 +461,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -488,4 +490,12 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0039-combination-sum) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
