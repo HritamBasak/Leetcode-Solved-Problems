@@ -154,6 +154,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0890-lemonade-change](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1036-rotting-oranges) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -431,6 +432,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1036-rotting-oranges) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Tree
 |  |
@@ -467,6 +469,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0547-number-of-provinces](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
