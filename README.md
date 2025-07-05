@@ -85,6 +85,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1319-unique-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -158,6 +159,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1072-next-greater-node-in-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -308,6 +310,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Quickselect
