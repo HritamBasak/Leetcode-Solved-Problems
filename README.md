@@ -455,6 +455,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0098-validate-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -467,6 +468,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0100-same-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
@@ -507,5 +509,10 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
