@@ -1,28 +1,16 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n=nums.length;
-        int i=0;
-        while(i<n)
+        int res[]=new int[nums.length+1];
+        for(int i=0;i<nums.length;i++)
         {
-            int c=nums[i];
-            if(nums[i]<n && nums[i]!=nums[c])
-            {
-                int temp=nums[i];
-                nums[i]=nums[c];
-                nums[c]=temp;
-            }
-            else
-            i++;
+            res[nums[i]]++;
         }
-        for(int k:nums)
-        System.out.print(k+" ");
-        for(int j=0;j<n;j++)
+        int c=0;
+        for(int i=0;i<res.length;i++)
         {
-            if(nums[j]!=j)
-            {
-                return j;
-            }
+            if(res[i]==0)
+            c=i;
         }
-        return n;
+        return c;
     }
 }
