@@ -30,10 +30,10 @@ class Solution {
     {
         if(nums[i]!=0)
         {
-            int temp=nums[i];//12
-            nums[i]=nums[left];//1 0 0 0 0
-            nums[left]=temp;//1 3 12 0 0
-            left++;//left=2
+            int temp=nums[i];
+            nums[i]=nums[left];
+            nums[left]=temp;
+            left++;
         }
     }
     }
