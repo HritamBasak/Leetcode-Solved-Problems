@@ -147,6 +147,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0605-can-place-flowers) |
