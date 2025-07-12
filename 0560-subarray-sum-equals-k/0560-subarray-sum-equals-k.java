@@ -14,7 +14,7 @@ class Solution
             if(map.containsKey(sum-k))
             {
                 c+=map.getOrDefault(sum-k,0);
-                System.out.println(c+"");
+                // System.out.println(c+"");
             }
             map.put(sum,map.getOrDefault(sum,0)+1);
         }
