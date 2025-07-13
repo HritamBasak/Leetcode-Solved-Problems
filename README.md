@@ -123,6 +123,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0035-search-insert-position](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -259,6 +260,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -267,6 +269,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
