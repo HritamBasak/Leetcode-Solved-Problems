@@ -122,6 +122,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
@@ -228,6 +229,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
