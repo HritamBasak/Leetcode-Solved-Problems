@@ -70,6 +70,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
@@ -134,6 +135,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0075-sort-colors](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -526,6 +528,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
