@@ -378,6 +378,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0092-reverse-linked-list-ii) |
@@ -391,6 +392,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
