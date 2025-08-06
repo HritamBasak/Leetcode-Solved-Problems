@@ -125,6 +125,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
@@ -234,6 +235,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
@@ -300,6 +302,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
