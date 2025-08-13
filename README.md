@@ -137,6 +137,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -294,6 +295,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
@@ -545,6 +547,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0090-subsets-ii) |
 ## Union Find
 |  |
 | ------- |
