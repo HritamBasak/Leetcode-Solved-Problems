@@ -171,6 +171,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0739-daily-temperatures](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1036-rotting-oranges) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1072-next-greater-node-in-linked-list) |
@@ -217,6 +218,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0557-reverse-words-in-a-string-iii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0812-rotate-string) |
+| [0979-di-string-match](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0979-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -263,6 +265,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0647-palindromic-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1894-merge-strings-alternately) |
@@ -385,6 +388,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0455-assign-cookies](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
+| [0979-di-string-match](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0979-di-string-match) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Linked List
 |  |
