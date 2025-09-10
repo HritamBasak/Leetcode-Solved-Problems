@@ -7,7 +7,7 @@ class Solution {
             if(nums[i]==1)
             {
                 c++;
-                System.out.println(c);
+                // System.out.println(c);
             }
             else
             {
