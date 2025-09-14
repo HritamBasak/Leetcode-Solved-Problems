@@ -68,6 +68,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -105,6 +106,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0002-add-two-numbers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
@@ -207,6 +209,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
