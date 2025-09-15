@@ -127,6 +127,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0001-two-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
@@ -210,6 +211,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
@@ -575,4 +577,8 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
