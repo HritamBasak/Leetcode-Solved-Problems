@@ -212,6 +212,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0005-longest-palindromic-substring](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0165-compare-version-numbers) |
@@ -363,6 +364,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
