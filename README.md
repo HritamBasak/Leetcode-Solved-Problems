@@ -367,6 +367,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0020-valid-parentheses](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0739-daily-temperatures) |
@@ -430,6 +431,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
@@ -585,4 +587,8 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
