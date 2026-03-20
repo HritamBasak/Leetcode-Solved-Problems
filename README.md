@@ -503,6 +503,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -518,6 +519,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -549,6 +551,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -563,6 +566,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
