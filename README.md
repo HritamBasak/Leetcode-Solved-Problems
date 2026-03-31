@@ -298,6 +298,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0191-number-of-1-bits) |
@@ -337,6 +338,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
@@ -409,6 +411,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0002-add-two-numbers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0092-reverse-linked-list-ii) |
@@ -610,4 +613,8 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0225-implement-stack-using-queues) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
