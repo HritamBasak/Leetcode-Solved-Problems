@@ -626,4 +626,8 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
