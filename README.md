@@ -217,6 +217,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0165-compare-version-numbers) |
+| [0214-shortest-palindrome](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0383-ransom-note) |
@@ -444,6 +445,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Prefix Sum
@@ -630,4 +632,12 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0207-course-schedule) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
