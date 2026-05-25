@@ -635,6 +635,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
