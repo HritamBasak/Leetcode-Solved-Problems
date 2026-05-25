@@ -9,12 +9,18 @@ class Solution {
         
         while(left<=right && top<=bottom)
         {
+            if(top<=bottom)
+            {
             for(int i=left;i<=right;i++)
             list.add(matrix[top][i]);
+            }
             top++;//1
 
+            if(left<=right)
+            {
             for(int i=top;i<=bottom;i++)
             list.add(matrix[i][right]);
+            }
             right--;//1
 
             if(top<=bottom)
@@ -29,7 +35,7 @@ class Solution {
                 for(int i=bottom;i>=top;i--)
                 list.add(matrix[i][left]);
             }
-            left++;
+            left++;//1
         }
         return list;
     }
