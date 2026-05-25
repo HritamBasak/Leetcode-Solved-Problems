@@ -137,6 +137,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0042-trapping-rain-water](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -400,6 +401,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -507,6 +509,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0200-number-of-islands) |
