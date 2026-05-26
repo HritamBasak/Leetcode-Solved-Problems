@@ -132,6 +132,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0015-3sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
@@ -480,6 +481,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
