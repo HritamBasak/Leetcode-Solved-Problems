@@ -235,6 +235,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0647-palindromic-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0812-rotate-string) |
 | [0979-di-string-match](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0979-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -388,6 +389,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0234-palindrome-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
