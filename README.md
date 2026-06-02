@@ -78,6 +78,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0160-intersection-of-two-linked-lists](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
@@ -225,6 +226,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0049-group-anagrams](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
