@@ -236,6 +236,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0415-add-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0812-rotate-string) |
 | [0979-di-string-match](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0979-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -465,6 +466,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Prefix Sum
