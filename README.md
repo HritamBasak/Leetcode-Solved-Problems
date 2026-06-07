@@ -80,6 +80,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0202-happy-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -229,6 +230,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0165-compare-version-numbers](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0383-ransom-note) |
@@ -343,6 +345,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0169-majority-element](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
