@@ -2,40 +2,40 @@ class Solution {
     public String longestPalindrome(String s) {
         if(s.length()<=1)
         return s;
-        int max=0;
-        String res="";
+        int maxLen=0;
         String maxStr="";
         for(int i=1;i<s.length();i++)
         {
-            int low=i;
-            int high=i;
-            while(s.charAt(low)==s.charAt(high))
+            //for odd length
+            int l=i;
+            int h=i;
+            while(s.charAt(l)==s.charAt(h))
             {
-                    low--;
-                    high++;
-                    if(low<=-1 || high>=s.length())
-                    break; 
+                l--;
+                h++;
+                if(l==-1 || h==s.length())
+                break;
             }
-            res=s.substring(low+1,high);
-            if(res.length()>max)
+            String str=s.substring(l+1,h);
+            if(str.length()>maxLen)
             {
-                max=Math.max(res.length(),max);
-                maxStr=res;
+                maxLen=str.length();
+                maxStr=str;
             }
-            low=i-1;
-            high=i;
-            while(s.charAt(low)==s.charAt(high))
+            l=i-1;
+            h=i;
+            while(s.charAt(l)==s.charAt(h))
             {
-                    low--;
-                    high++;
-                    if(low<=-1 || high>=s.length())
-                    break;
+                l--;
+                h++;
+                if(l==-1 || h==s.length())
+                break;
             }
-            res=s.substring(low+1,high);
-            if(res.length()>max)
+            str=s.substring(l+1,h);
+            if(str.length()>maxLen)
             {
-                max=Math.max(res.length(),max);
-                maxStr=res;
+                maxLen=str.length();
+                maxStr=str;
             }
         }
         return maxStr;
