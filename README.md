@@ -96,6 +96,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2159-two-out-of-three](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2159-two-out-of-three) |
@@ -251,6 +252,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -383,6 +385,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0387-first-unique-character-in-a-string](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Quickselect
