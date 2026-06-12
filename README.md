@@ -295,6 +295,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0557-reverse-words-in-a-string-iii](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -460,6 +461,7 @@ This repository contains my solutions to various Leetcode DSA problems. The solu
 | [0237-delete-node-in-a-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HritamBasak/Leetcode-Solved-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
