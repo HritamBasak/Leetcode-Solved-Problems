@@ -9,80 +9,44 @@
  *     }
  * }
  */
-public class Solution 
-{
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) 
-    {   
-          //Brute Force solution
-        //   ListNode start=headB;
-        //   while(headA!=null)
-        //   {
-        //     headB=start;
-        //     while(headB!=null)
-        //     {
-        //         if(headB==headA)
-        //         return headA;
-
-        //         headB=headB.next;
-        //     } 
-        //     headA=headA.next;
-        //   }
-        //   return null;
-
-        //Better Solution
-        //   Map<ListNode,Integer> map=new LinkedHashMap<>();
-        //   while(headA!=null)
-        //   {
-        //     map.put(headA,map.getOrDefault(headA,0)+1);
-        //     headA=headA.next;
-        //   }
-        //   while(headB!=null)
-        //   {
-        //     map.put(headB,map.getOrDefault(headB,0)+1);
-        //     headB=headB.next;
-        //   }
-        //   for(ListNode i:map.keySet())
-        //   {
-        //     if(map.get(i)==2)
-        //     return i;
-        //   }
-        //   return null;
-
-        //Optimal Solution
-        int l1=0,l2=0;
-        ListNode first=headA,second=headB;
+public class Solution {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        int c1=0;
+        int c2=0;
+        ListNode first=headA;
+        ListNode sec=headB;
         while(headA!=null)
         {
-            l1++;
+            c1++;
             headA=headA.next;
         }
         while(headB!=null)
         {
-            l2++;
+            c2++;
             headB=headB.next;
         }
-        int diff=Math.abs(l2-l1);
-        if(l1>l2)
+        int diff=Math.abs(c2-c1);
+        if(c1>c2)
         {
             for(int i=0;i<diff;i++)
             {
                 first=first.next;
             }
         }
-        if(l2>l1)
+        if(c1<c2)
         {
             for(int i=0;i<diff;i++)
             {
-                second=second.next;
+                sec=sec.next;
             }
         }
-        System.out.println(first.val+" "+second.val);
-        while(first!=null || second!=null)
+        while(first!=null && sec!=null)
         {
-            if(first==second)
+            if(first==sec)
             return first;
+
             first=first.next;
-            second=second.next;
+            sec=sec.next;
         }
         return null;
     }
